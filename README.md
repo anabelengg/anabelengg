@@ -9,9 +9,20 @@
 ### my journey
 
 ### 🛠 skills
-- **languages:** python, SQL
-- **frameworks and librares:** pandas, openai
-- **tools and technologies:** tableau, powerBI, jupyter, google collab, NiFi
+- **languages:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+- **frameworks and librares:**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+
+- **tools and technologies:**
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Google_Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&color=525252)
+![Apache_NiFi](https://img.shields.io/badge/Apache_NiFi-017CEE?style=flat&logo=apachenifi&logoColor=white)
 
 ## 📈 My GitHub Stats
 
