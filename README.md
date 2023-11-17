@@ -27,7 +27,11 @@ my background in industrial engineering has provided me with a strong foundation
 
 ## 📈 My GitHub Stats
 
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=anabelengg&show_icons=true&theme=radical)
+
+### 📈 GitHub Streaks
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=default&hide_border=true)
 
 ## 🏆 GitHub Trophies
 
