@@ -1,12 +1,11 @@
 # 👋 hi, i'm anabelen guerra! 🌸
 
 🔍 **about me:**
-- 🎓 **currently studying:** master in business analytics and big data at IE university
-- 🎓 **education:** bs in industrial engineering from the university of arkansas
+- 🎓 **currently studying:** master in business analytics and big data at IE university, 2023
+- 🎓 **education:** bs in industrial engineering from the university of arkansas, 2020
 - 📈 **career interests:** data science/ data analytics roles
 - 🌐 **find me on linkedIn:** [anabelen.gg](https://www.linkedin.com/in/anabelengg/)
 
-### 🛠 Skills
-- **Languages:** Python, SQL
-- **Tools & Frameworks:** [Tools and Frameworks You're Experienced With]
+### 🛠 skills
+- **languages:** python, SQL
 
