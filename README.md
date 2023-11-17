@@ -25,7 +25,7 @@ my background in industrial engineering has provided me with a strong foundation
 ![Google_Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&color=525252)
 ![Apache_NiFi](https://img.shields.io/badge/Apache_NiFi-017CEE?style=flat&logo=apachenifi&logoColor=white)
 
-## 📈 My GitHub Stats
+### 📈 My GitHub Stats
 
 ![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=anabelengg&show_icons=true&theme=radical)
 
@@ -33,9 +33,12 @@ my background in industrial engineering has provided me with a strong foundation
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=default&hide_border=true)
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)
+
+### Connect with Me on DataCamp
+[![DataCamp Profile](https://img.shields.io/badge/DataCamp-Profile-blue)](https://www.datacamp.com/portfolio/anabelenguerra)
 
 ## 📊 Top Languages
 
