@@ -38,6 +38,7 @@ my background in industrial engineering has provided me with a strong foundation
 ![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)
 
 ## Connect with Me on DataCamp
+
 [![DataCamp Profile](https://img.shields.io/badge/DataCamp-Profile-blue)](https://www.datacamp.com/portfolio/anabelenguerra)
 
 ## 📊 Top Languages
