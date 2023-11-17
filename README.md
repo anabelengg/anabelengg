@@ -37,3 +37,4 @@ My background in industrial engineering has provided me with a strong foundation
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
+🤝 Excited to explore data analytics' potential! Let’s connect and collaborate!
