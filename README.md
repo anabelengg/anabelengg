@@ -6,7 +6,8 @@
 - 📈 **career interests:** data science/ data analytics roles
 - 🌐 **find me on linkedIn:** [anabelen.gg](https://www.linkedin.com/in/anabelengg/)
 
-### my journey
+### 🌟 my journey
+My background in industrial engineering has provided me with a strong foundation in problem-solving, systems thinking, and process optimization. These skills are directly transferable to the realm of data analytics, where understanding complex systems and identifying patterns are crucial. Additionally, my experience in coordinating operations and executing financial processes has honed my analytical and strategic thinking abilities, which are essential for a data analyst.
 
 ### 🛠 skills
 - **languages:**
